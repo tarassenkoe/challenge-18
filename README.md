@@ -4,7 +4,7 @@ There was a 50-50 breakdown of Customers/Subscribers by total numbers from Augus
 campaign aimed at BOTH segments - Customers and Subscribers.
 In August 2013, the peak time for bikes is 12PM through end of day, while in September the peak time is 6AM. The indication here is that, during the fall, people are riding bikes to work. During
 the summer, people are riding bikes for leisure potentially. Further analysis would be required on this point, but the trend is consistent on a day-to-day basis indicating
-that there is indeed some indicator that summer bike peak hours start later than fall peak hours.
+that summer bike peak hours start later than fall peak hours.
 In September 2013, it is evident that, per station a total of 4K drivers started. This information is depicted in Sheet "Top 10 Stations Start Journey." The end spot is in locations
 throughout the midtown/uptown area, indicating that bikes are traveling to midtown and uptown. 
 There are also starting locations in "Bottom 10 for Starting Journey." As a new data analyst working with the management team, I would want to focus on increasing the bike ridership
