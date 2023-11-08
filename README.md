@@ -12,4 +12,4 @@ in these locations, realizing that these "Bottom 10 for Starting Journey" are co
 and advertising to gain new customers for these stations. 
 In summary, trip numbers increase from August 2013 to September 2013, and emphasis should be placed on advertising in all three of these months. Customers and Subscribers are important, although
 Customers travel more per trip and Subscribers travel more overall in total. In summer, leisure places can be used to advertise the bikes for people looking to travel from downtown to midtown,
-whereas in fall, work locations can be a focus point and the traffic start to already peak early in the AM, so the business should be set up for success from those hours. 
+whereas in fall, work locations can be a focus point and the traffic start to already peak early in the AM, so the business should be set up for success from early daytime hours. Inventory should be fully stocked on a monthly basis for 4,000 bike rides per station.
