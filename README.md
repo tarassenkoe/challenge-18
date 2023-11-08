@@ -5,7 +5,7 @@ campaign aimed at BOTH segments - Customers and Subscribers.
 In August 2013, the peak time for bikes is 12PM through end of day, while in September the peak time is 6AM. The indication here is that, during the fall, people are riding bikes to work. During
 the summer, people are riding bikes for leisure potentially. Further analysis would be required on this point, but the trend is consistent on a day-to-day basis indicating
 that summer bike peak hours start later than fall peak hours.
-In September 2013, it is evident that, per station a total of 4K drivers started. This information is depicted in Sheet "Top 10 Stations Start Journey." The end spot is in locations
+In September 2013, it is evident that, per station a total of 4K drivers started their bike rides. This information is depicted in Sheet "Top 10 Stations Start Journey." The end spot is in locations
 throughout the midtown/uptown area, indicating that bikes are traveling to midtown and uptown. 
 There are also starting locations in "Bottom 10 for Starting Journey." As a new data analyst working with the management team, I would want to focus on increasing the bike ridership
 in these locations, realizing that these "Bottom 10 for Starting Journey" are contributing to market share for total bike ridership. I would want to work on improving customer experience
